@@ -1,6 +1,7 @@
 # My Journey from 350 lbs to 26.2 Miles
 
 ## Abstract
+
 There are years that ask questions and years that answer. - Zora Neal Hurston
 
 On March 5th, 2019 - I was a 350 lb man, who was quickly approaching his 37th birthday. On February 20th, 2021 - I completed my first marathon, conquering both the miles and the freezing cold. The journey over those two years not only drastically changed my health and physical appearance, but also altered my understanding of thought, knowledge, work, and relationships.

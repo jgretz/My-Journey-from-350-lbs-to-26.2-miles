@@ -1,0 +1,12 @@
+.idea/
+.DS_Store
+
+node_modules/
+
+dist/
+lib/
+
+app/styles/styles.min.css
+
+npm-debug.log
+yarn-error.log
